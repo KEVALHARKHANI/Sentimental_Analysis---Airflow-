@@ -1,0 +1,5 @@
+plugins/support_files/db.ini
+logs/Analysis/*
+logs/dag_processor_manager/*
+logs/scheduler/*
+dags/kafka/config.ini
